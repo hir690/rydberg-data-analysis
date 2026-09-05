@@ -3,4 +3,4 @@ Data analysis and linear regression modelling of mercury and hydrogen emission s
 
 Language: Python | 
 Libraries: NumPy & Matplotlib |
-Methods: Pixel-to-wavelength calibration, Linear regression & uncertainty propagation
+Methods: Pixel-to-Wavelength calibration, Linear regression, Uncertainty calculation, and Gaussian error propagation
